@@ -84,6 +84,6 @@ contract RealEstate is ERC721, Ownable {
     }
 
         receive() external payable {
-        // Fallback function to receive ether
+        
     }
 }
